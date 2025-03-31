@@ -1,0 +1,54 @@
+{
+    "PublicService": {
+        "name": "Disabled Persons' Movement Card",
+        "evidence": [
+            {
+                "id": 0,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Certificate from the relevant Consular or other competent Authority",
+                        "description": "Certificate from the relevant Consular or other competent Authority that there is no obstacle to you getting married"
+                    }
+                ]
+            },
+            [
+                {
+                    "id": 1,
+                    "evs": [
+                        {
+                            "id": "ev0002",
+                            "type": "Evidence",
+                            "name": "Birth certificate",
+                            "description": "Birth certificate from your country translated into Greek."
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "evs": [
+                        {
+                            "id": "ev0003",
+                            "type": "Evidence",
+                            "name": "Proof of Residence",
+                            "description": "Electricity Bill."
+                        },
+                        {
+                            "id": "ev0004",
+                            "type": "Evidence",
+                            "name": "Proof of Residence",
+                            "description": "Telephone Bill."
+                        },
+                        {
+                            "id": "ev0005",
+                            "type": "Evidence",
+                            "name": "Proof of Residence",
+                            "description": "Tax Return."
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "question": "Do you have a certificate from your home Consulate or other competent authority stating that there is no impediment to you getting married?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 1,
+        "question": "Do you have a birth certificate from your country translated into Greek?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 2,
+        "question": "Do you have proof of residence?",
+        "options": ["Electricity bill", 
+                    "Telephone bill",
+                    "Tax return"]
+        
+    },
+    {
+        "id": 3,
+        "question": "Do you have a photocopy of your passport, residence permit or certificate of residence in Greece?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 4,
+        "question": "Have you placed a wedding advertisement in a daily local newspaper of your municipality of residence?",
+        "options":["Yes", "No"]
+        
+    },
+    {
+        "id": 5,
+        "question": "Do you have a photocopy of your future spouse's passport or birth certificate?",
+        "options": ["Yes", "No"]
+        
+    }
+]

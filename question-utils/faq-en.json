@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "question": "How much does the fee cost?",
+        "answer": "18€."
+    },
+    {
+        "id": 1,
+        "question": "What is provided in the event of refusal to issue a permit by the competent official?",
+        "answer": "The competent Court of Peace decides irrevocably in accordance with the provisions of Voluntary Jurisdiction of the Code of Civil Procedure."
+    },
+    {
+        "id": 2,
+        "question": "How long does it take for the decision to be issued? ",
+        "answer": " 10 days from the date of application submission"
+    },
+    {
+        "id": 3,
+        "question": "How old does a foreign resident have to be to apply?",
+        "answer": "Older than 18 years old."
+    }
+]
